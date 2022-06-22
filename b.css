@@ -1,0 +1,66 @@
+#owner {
+  width: 40pt;
+  height: 40pt;
+ /* border-width: 2px;
+  border-style: solid;
+  border-color: #00644e;*/
+  border-radius: 10pt;
+  margin-top: 5pt;
+ /* outline: 1.5px dotted #00b389;
+  outline-offset: 2px;*/
+}
+
+.whitebg {
+  background-color: white;
+  border-radius: 12pt;
+}
+
+.centr {
+  text-align: center;
+  margin: auto;
+}
+mark {
+  font-family: Courier;
+  outline: 1.5pt dashed #00b389;
+}
+.boz {
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-decoration-style: dotted;
+  text-underline-offset: 5pt;
+}
+ body {
+  color: #00644e;
+  font-family: "Sofia";
+  background-color: #00ffc3;
+ }
+
+.shadow {
+  box-shadow:0px 2px 2px #00ffc3;
+}
+ 
+td {
+  font-size: 85%;
+  text-align: center;
+  padding: 2pt;
+}
+
+#currentPage {
+  background-color: #00ffc3;
+  border-radius: 10pt;
+}
+
+a {
+  text-decoration: none;
+  color: #00644e;
+}
+ul {
+  width: 80%;
+  border-radius: 5pt;
+  color: #a4ffea;
+  background-color: #00644e;
+}
+#square1 {
+  width: 40pt;
+  height: 40pt;
+}
